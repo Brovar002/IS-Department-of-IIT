@@ -1,7 +1,7 @@
 multiply_head_of_department
-=> nrel_main_idtf: [заведующий кафедрой](*<-lang_ru;;*);;
+=> nrel_main_idtf: [заведующий кафедрой](*<-lang_ru;;*);
 
-=> nrel_main_idtf: [head of department](*<-lang_en;;*);;
+=> nrel_main_idtf: [head of department](*<-lang_en;;*);
 
 
 <- sc_node_role_relation;

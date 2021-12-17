@@ -4,7 +4,7 @@ person
 =>nrel_main_idtf:
 	[person] (* <-lang_en;; *);
 
-<-sc_node_not_relation;;
+<-sc_node_not_relation;
 
 ->rrel_key_sc_element:
 	...
