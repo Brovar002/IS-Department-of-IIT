@@ -35,5 +35,5 @@ image_processing_in_intelligent_systems
 	<-nrel_taught_subject;;
 	->rrel_teacher: Ivashenko_V_P;;
 	*);
-=>nrel_term: 5;
+=>nrel_term: 5;;
 

@@ -1,6 +1,6 @@
 rrel_specialist<-sc_node_role_relation;;
 rrel_specialist=>nrel_main_idtf:
-	[специалист'] (* <-lang_ru;; *);;
+	[специалист'] (* <-lang_ru;; *);
 
 <- sc_node_role_relation;
 
